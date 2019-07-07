@@ -7,6 +7,10 @@
   "author": "Zonayed Ahmed(zonayedpca)",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev": "nodemon app",
+    "start": "node app"
+  },
   "dependencies": {
     "johnny-five": "^1.1.0"
   }
