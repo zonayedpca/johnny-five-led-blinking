@@ -1,0 +1,13 @@
+{
+  "name": "johnny-five-led-blink",
+  "version": "1.0.0",
+  "description": "A Simple Led Blinking project with Arduino Uno",
+  "main": "app.js",
+  "repository": "https://github.com/zonayedpca/johnny-five-led-blinking",
+  "author": "Zonayed Ahmed(zonayedpca)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "johnny-five": "^1.1.0"
+  }
+}
